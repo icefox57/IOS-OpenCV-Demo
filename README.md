@@ -9,7 +9,7 @@ This is a demo for image stitching use swift & object-c & OpenCV 3.2 .
 
 Hope it's helpful for anyone want to use OpenCV in IOS.
 
-这是一个使用 Swift 开的图片拼接 demo , 利用 object-c 整合 OpenCV 3.2
+这是一个使用 Swift 开发的图片拼接 demo , 利用 object-c 整合 OpenCV 3.2
 
 希望对在 IOS 中使用 OpenCV 的朋友有点帮助
 
@@ -18,10 +18,10 @@ Hope it's helpful for anyone want to use OpenCV in IOS.
 修改循环中的数字,对应文件夹中的图片名字,也可以加入新的图片.
 ```Swift
 for i in 0...17{
-            if let image = UIImage(named:"\(i).jpg") {
-                images.append(image)
-            }
-        }
+    if let image = UIImage(named:"\(i).jpg") {
+         images.append(image)
+     }
+}
 
 ```
 

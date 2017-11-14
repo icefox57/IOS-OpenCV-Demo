@@ -1,5 +1,4 @@
 # OpenCVDemo
-swift use OpenCV stitch image 
 
 This is a demo for image stitching use swift & object-c & OpenCV 3.2 
 

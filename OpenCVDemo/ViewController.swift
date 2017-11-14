@@ -45,12 +45,6 @@ class ViewController: UIViewController {
             }
         }
         
-        print("images:\(images.count)")
-//        let images:[UIImage] = [UIImage(named:"pic_0_0.jpg")!,
-//                    UIImage (named:"pic_0_1.jpg")!,
-//                    UIImage (named:"pic_1_0.jpg")!,
-//                    UIImage (named:"pic_1_1.jpg")!]
-        
         imgvOutput.image = cvmanager?.stitch(withOpenCV: images)
     }
     

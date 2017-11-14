@@ -1,6 +1,10 @@
 # OpenCVDemo
 
-This is a demo for image stitching use swift & object-c & OpenCV 3.2 
+This is a demo for image stitching use swift & object-c & OpenCV 3.2 .
+
+Hope it's helpful for anyone want to use OpenCV in IOS.
+
+
 
 这是一个使用 Swift 开的图片拼接 demo , 利用 object-c 整合 OpenCV 3.2
 

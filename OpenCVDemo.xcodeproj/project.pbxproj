@@ -12,6 +12,43 @@
 		9AF69B531FB183D80020F0E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B511FB183D80020F0E8 /* Main.storyboard */; };
 		9AF69B551FB183D80020F0E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B541FB183D80020F0E8 /* Assets.xcassets */; };
 		9AF69B581FB183D80020F0E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B561FB183D80020F0E8 /* LaunchScreen.storyboard */; };
+		9AF69B641FB185F60020F0E8 /* CVManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9AF69B631FB185F60020F0E8 /* CVManager.mm */; };
+		9AF69B671FB1893E0020F0E8 /* pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B661FB1893E0020F0E8 /* pic1.jpg */; };
+		9AF69B691FB1894F0020F0E8 /* pic2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B681FB1894F0020F0E8 /* pic2.jpg */; };
+		9AF69B6E1FB449870020F0E8 /* pic_0_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B6A1FB449870020F0E8 /* pic_0_0.jpg */; };
+		9AF69B6F1FB449870020F0E8 /* pic_1_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B6B1FB449870020F0E8 /* pic_1_0.jpg */; };
+		9AF69B701FB449870020F0E8 /* pic_1_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B6C1FB449870020F0E8 /* pic_1_1.jpg */; };
+		9AF69B711FB449870020F0E8 /* pic_0_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B6D1FB449870020F0E8 /* pic_0_1.jpg */; };
+		9AF69B841FB570060020F0E8 /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B721FB570040020F0E8 /* 0.jpg */; };
+		9AF69B851FB570060020F0E8 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B731FB570040020F0E8 /* 9.jpg */; };
+		9AF69B861FB570060020F0E8 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B741FB570040020F0E8 /* 14.jpg */; };
+		9AF69B871FB570060020F0E8 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B751FB570040020F0E8 /* 15.jpg */; };
+		9AF69B881FB570060020F0E8 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B761FB570050020F0E8 /* 2.jpg */; };
+		9AF69B891FB570060020F0E8 /* 005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B771FB570050020F0E8 /* 005.jpg */; };
+		9AF69B8A1FB570060020F0E8 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B781FB570050020F0E8 /* 4.jpg */; };
+		9AF69B8B1FB570060020F0E8 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B791FB570050020F0E8 /* 7.jpg */; };
+		9AF69B8C1FB570060020F0E8 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7A1FB570050020F0E8 /* 3.jpg */; };
+		9AF69B8D1FB570060020F0E8 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7B1FB570050020F0E8 /* 12.jpg */; };
+		9AF69B8E1FB570060020F0E8 /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7C1FB570050020F0E8 /* 16.jpg */; };
+		9AF69B8F1FB570060020F0E8 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7D1FB570050020F0E8 /* 1.jpg */; };
+		9AF69B901FB570060020F0E8 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7E1FB570060020F0E8 /* 8.jpg */; };
+		9AF69B911FB570060020F0E8 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B7F1FB570060020F0E8 /* 6.jpg */; };
+		9AF69B921FB570060020F0E8 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B801FB570060020F0E8 /* 11.jpg */; };
+		9AF69B931FB570060020F0E8 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B811FB570060020F0E8 /* 10.jpg */; };
+		9AF69B941FB570060020F0E8 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B821FB570060020F0E8 /* 13.jpg */; };
+		9AF69B951FB570060020F0E8 /* 17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B831FB570060020F0E8 /* 17.jpg */; };
+		9AF69B9B1FB573DF0020F0E8 /* 100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B961FB573DD0020F0E8 /* 100.jpg */; };
+		9AF69B9C1FB573DF0020F0E8 /* 102.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B971FB573DD0020F0E8 /* 102.jpg */; };
+		9AF69B9D1FB573DF0020F0E8 /* 103.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B981FB573DE0020F0E8 /* 103.jpg */; };
+		9AF69B9E1FB573DF0020F0E8 /* 101.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B991FB573DE0020F0E8 /* 101.jpg */; };
+		9AF69B9F1FB573DF0020F0E8 /* 104.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69B9A1FB573DE0020F0E8 /* 104.jpg */; };
+		9AF69BA61FB575400020F0E8 /* 1002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA01FB5753F0020F0E8 /* 1002.jpg */; };
+		9AF69BA71FB575400020F0E8 /* 1004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA11FB5753F0020F0E8 /* 1004.jpg */; };
+		9AF69BA81FB575400020F0E8 /* 1000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA21FB575400020F0E8 /* 1000.jpg */; };
+		9AF69BA91FB575400020F0E8 /* 1001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA31FB575400020F0E8 /* 1001.jpg */; };
+		9AF69BAA1FB575400020F0E8 /* 1003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA41FB575400020F0E8 /* 1003.jpg */; };
+		9AF69BAB1FB575400020F0E8 /* 1005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AF69BA51FB575400020F0E8 /* 1005.jpg */; };
+		9EA4DC15C138B06E0C534E42 /* Pods_OpenCVDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7F4B1851B71CAD47AA655FB /* Pods_OpenCVDemo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +59,47 @@
 		9AF69B541FB183D80020F0E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AF69B571FB183D80020F0E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AF69B591FB183D80020F0E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AF69B621FB185F50020F0E8 /* OpenCVDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OpenCVDemo-Bridging-Header.h"; sourceTree = "<group>"; };
+		9AF69B631FB185F60020F0E8 /* CVManager.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = CVManager.mm; sourceTree = "<group>"; };
+		9AF69B651FB186190020F0E8 /* CVManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CVManager.h; sourceTree = "<group>"; };
+		9AF69B661FB1893E0020F0E8 /* pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic1.jpg; sourceTree = "<group>"; };
+		9AF69B681FB1894F0020F0E8 /* pic2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic2.jpg; sourceTree = "<group>"; };
+		9AF69B6A1FB449870020F0E8 /* pic_0_0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_0_0.jpg; sourceTree = "<group>"; };
+		9AF69B6B1FB449870020F0E8 /* pic_1_0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_1_0.jpg; sourceTree = "<group>"; };
+		9AF69B6C1FB449870020F0E8 /* pic_1_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_1_1.jpg; sourceTree = "<group>"; };
+		9AF69B6D1FB449870020F0E8 /* pic_0_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_0_1.jpg; sourceTree = "<group>"; };
+		9AF69B721FB570040020F0E8 /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		9AF69B731FB570040020F0E8 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		9AF69B741FB570040020F0E8 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		9AF69B751FB570040020F0E8 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		9AF69B761FB570050020F0E8 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		9AF69B771FB570050020F0E8 /* 005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 005.jpg; sourceTree = "<group>"; };
+		9AF69B781FB570050020F0E8 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		9AF69B791FB570050020F0E8 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		9AF69B7A1FB570050020F0E8 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		9AF69B7B1FB570050020F0E8 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		9AF69B7C1FB570050020F0E8 /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		9AF69B7D1FB570050020F0E8 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		9AF69B7E1FB570060020F0E8 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		9AF69B7F1FB570060020F0E8 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		9AF69B801FB570060020F0E8 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		9AF69B811FB570060020F0E8 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		9AF69B821FB570060020F0E8 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		9AF69B831FB570060020F0E8 /* 17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 17.jpg; sourceTree = "<group>"; };
+		9AF69B961FB573DD0020F0E8 /* 100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 100.jpg; sourceTree = "<group>"; };
+		9AF69B971FB573DD0020F0E8 /* 102.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 102.jpg; sourceTree = "<group>"; };
+		9AF69B981FB573DE0020F0E8 /* 103.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 103.jpg; sourceTree = "<group>"; };
+		9AF69B991FB573DE0020F0E8 /* 101.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 101.jpg; sourceTree = "<group>"; };
+		9AF69B9A1FB573DE0020F0E8 /* 104.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 104.jpg; sourceTree = "<group>"; };
+		9AF69BA01FB5753F0020F0E8 /* 1002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1002.jpg; sourceTree = "<group>"; };
+		9AF69BA11FB5753F0020F0E8 /* 1004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1004.jpg; sourceTree = "<group>"; };
+		9AF69BA21FB575400020F0E8 /* 1000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1000.jpg; sourceTree = "<group>"; };
+		9AF69BA31FB575400020F0E8 /* 1001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1001.jpg; sourceTree = "<group>"; };
+		9AF69BA41FB575400020F0E8 /* 1003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1003.jpg; sourceTree = "<group>"; };
+		9AF69BA51FB575400020F0E8 /* 1005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1005.jpg; sourceTree = "<group>"; };
+		C7F4B1851B71CAD47AA655FB /* Pods_OpenCVDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OpenCVDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE4C0A2493C7A22E79E76441 /* Pods-OpenCVDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OpenCVDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-OpenCVDemo/Pods-OpenCVDemo.release.xcconfig"; sourceTree = "<group>"; };
+		DBC227AC22C6A773D9F1328E /* Pods-OpenCVDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OpenCVDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OpenCVDemo/Pods-OpenCVDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +107,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EA4DC15C138B06E0C534E42 /* Pods_OpenCVDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		10ADE7B9F4176B529E4078F2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C7F4B1851B71CAD47AA655FB /* Pods_OpenCVDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		22C7CA54B4FD03DFB8264CDF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DBC227AC22C6A773D9F1328E /* Pods-OpenCVDemo.debug.xcconfig */,
+				CE4C0A2493C7A22E79E76441 /* Pods-OpenCVDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		9AF69B411FB183D80020F0E8 = {
 			isa = PBXGroup;
 			children = (
 				9AF69B4C1FB183D80020F0E8 /* OpenCVDemo */,
 				9AF69B4B1FB183D80020F0E8 /* Products */,
+				22C7CA54B4FD03DFB8264CDF /* Pods */,
+				10ADE7B9F4176B529E4078F2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +152,8 @@
 		9AF69B4C1FB183D80020F0E8 /* OpenCVDemo */ = {
 			isa = PBXGroup;
 			children = (
+				9AF69B611FB185C40020F0E8 /* Componet */,
+				9AF69B601FB185BE0020F0E8 /* Resource */,
 				9AF69B4D1FB183D80020F0E8 /* AppDelegate.swift */,
 				9AF69B4F1FB183D80020F0E8 /* ViewController.swift */,
 				9AF69B511FB183D80020F0E8 /* Main.storyboard */,
@@ -64,6 +164,58 @@
 			path = OpenCVDemo;
 			sourceTree = "<group>";
 		};
+		9AF69B601FB185BE0020F0E8 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				9AF69BA21FB575400020F0E8 /* 1000.jpg */,
+				9AF69BA31FB575400020F0E8 /* 1001.jpg */,
+				9AF69BA01FB5753F0020F0E8 /* 1002.jpg */,
+				9AF69BA41FB575400020F0E8 /* 1003.jpg */,
+				9AF69BA11FB5753F0020F0E8 /* 1004.jpg */,
+				9AF69BA51FB575400020F0E8 /* 1005.jpg */,
+				9AF69B961FB573DD0020F0E8 /* 100.jpg */,
+				9AF69B991FB573DE0020F0E8 /* 101.jpg */,
+				9AF69B971FB573DD0020F0E8 /* 102.jpg */,
+				9AF69B981FB573DE0020F0E8 /* 103.jpg */,
+				9AF69B9A1FB573DE0020F0E8 /* 104.jpg */,
+				9AF69B721FB570040020F0E8 /* 0.jpg */,
+				9AF69B7D1FB570050020F0E8 /* 1.jpg */,
+				9AF69B761FB570050020F0E8 /* 2.jpg */,
+				9AF69B7A1FB570050020F0E8 /* 3.jpg */,
+				9AF69B781FB570050020F0E8 /* 4.jpg */,
+				9AF69B771FB570050020F0E8 /* 005.jpg */,
+				9AF69B7F1FB570060020F0E8 /* 6.jpg */,
+				9AF69B791FB570050020F0E8 /* 7.jpg */,
+				9AF69B7E1FB570060020F0E8 /* 8.jpg */,
+				9AF69B731FB570040020F0E8 /* 9.jpg */,
+				9AF69B811FB570060020F0E8 /* 10.jpg */,
+				9AF69B801FB570060020F0E8 /* 11.jpg */,
+				9AF69B7B1FB570050020F0E8 /* 12.jpg */,
+				9AF69B821FB570060020F0E8 /* 13.jpg */,
+				9AF69B741FB570040020F0E8 /* 14.jpg */,
+				9AF69B751FB570040020F0E8 /* 15.jpg */,
+				9AF69B7C1FB570050020F0E8 /* 16.jpg */,
+				9AF69B831FB570060020F0E8 /* 17.jpg */,
+				9AF69B6A1FB449870020F0E8 /* pic_0_0.jpg */,
+				9AF69B6D1FB449870020F0E8 /* pic_0_1.jpg */,
+				9AF69B6B1FB449870020F0E8 /* pic_1_0.jpg */,
+				9AF69B6C1FB449870020F0E8 /* pic_1_1.jpg */,
+				9AF69B661FB1893E0020F0E8 /* pic1.jpg */,
+				9AF69B681FB1894F0020F0E8 /* pic2.jpg */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		9AF69B611FB185C40020F0E8 /* Componet */ = {
+			isa = PBXGroup;
+			children = (
+				9AF69B651FB186190020F0E8 /* CVManager.h */,
+				9AF69B631FB185F60020F0E8 /* CVManager.mm */,
+				9AF69B621FB185F50020F0E8 /* OpenCVDemo-Bridging-Header.h */,
+			);
+			path = Componet;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +223,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9AF69B5C1FB183D80020F0E8 /* Build configuration list for PBXNativeTarget "OpenCVDemo" */;
 			buildPhases = (
+				28D10A84862E796FDD505303 /* [CP] Check Pods Manifest.lock */,
 				9AF69B461FB183D80020F0E8 /* Sources */,
 				9AF69B471FB183D80020F0E8 /* Frameworks */,
 				9AF69B481FB183D80020F0E8 /* Resources */,
+				CF9C806107ADDA991C54D71E /* [CP] Embed Pods Frameworks */,
+				EEC463C1EBC7474CB17D0227 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,6 +251,7 @@
 				TargetAttributes = {
 					9AF69B491FB183D80020F0E8 = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,13 +279,106 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AF69B931FB570060020F0E8 /* 10.jpg in Resources */,
+				9AF69B901FB570060020F0E8 /* 8.jpg in Resources */,
+				9AF69BA71FB575400020F0E8 /* 1004.jpg in Resources */,
+				9AF69B8E1FB570060020F0E8 /* 16.jpg in Resources */,
+				9AF69B871FB570060020F0E8 /* 15.jpg in Resources */,
+				9AF69BAB1FB575400020F0E8 /* 1005.jpg in Resources */,
+				9AF69B911FB570060020F0E8 /* 6.jpg in Resources */,
+				9AF69BA61FB575400020F0E8 /* 1002.jpg in Resources */,
+				9AF69B851FB570060020F0E8 /* 9.jpg in Resources */,
+				9AF69B951FB570060020F0E8 /* 17.jpg in Resources */,
+				9AF69B9B1FB573DF0020F0E8 /* 100.jpg in Resources */,
+				9AF69B881FB570060020F0E8 /* 2.jpg in Resources */,
+				9AF69B9C1FB573DF0020F0E8 /* 102.jpg in Resources */,
 				9AF69B581FB183D80020F0E8 /* LaunchScreen.storyboard in Resources */,
+				9AF69BAA1FB575400020F0E8 /* 1003.jpg in Resources */,
+				9AF69B9F1FB573DF0020F0E8 /* 104.jpg in Resources */,
 				9AF69B551FB183D80020F0E8 /* Assets.xcassets in Resources */,
+				9AF69B8F1FB570060020F0E8 /* 1.jpg in Resources */,
+				9AF69B671FB1893E0020F0E8 /* pic1.jpg in Resources */,
+				9AF69BA81FB575400020F0E8 /* 1000.jpg in Resources */,
+				9AF69B891FB570060020F0E8 /* 005.jpg in Resources */,
+				9AF69B691FB1894F0020F0E8 /* pic2.jpg in Resources */,
+				9AF69B941FB570060020F0E8 /* 13.jpg in Resources */,
+				9AF69B8A1FB570060020F0E8 /* 4.jpg in Resources */,
+				9AF69B9D1FB573DF0020F0E8 /* 103.jpg in Resources */,
+				9AF69B9E1FB573DF0020F0E8 /* 101.jpg in Resources */,
+				9AF69B8C1FB570060020F0E8 /* 3.jpg in Resources */,
+				9AF69B711FB449870020F0E8 /* pic_0_1.jpg in Resources */,
+				9AF69B921FB570060020F0E8 /* 11.jpg in Resources */,
+				9AF69B8B1FB570060020F0E8 /* 7.jpg in Resources */,
+				9AF69B861FB570060020F0E8 /* 14.jpg in Resources */,
+				9AF69BA91FB575400020F0E8 /* 1001.jpg in Resources */,
+				9AF69B6F1FB449870020F0E8 /* pic_1_0.jpg in Resources */,
+				9AF69B8D1FB570060020F0E8 /* 12.jpg in Resources */,
+				9AF69B841FB570060020F0E8 /* 0.jpg in Resources */,
+				9AF69B6E1FB449870020F0E8 /* pic_0_0.jpg in Resources */,
+				9AF69B701FB449870020F0E8 /* pic_1_1.jpg in Resources */,
 				9AF69B531FB183D80020F0E8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		28D10A84862E796FDD505303 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OpenCVDemo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CF9C806107ADDA991C54D71E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-OpenCVDemo/Pods-OpenCVDemo-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Hue/Hue.framework",
+				"${BUILT_PRODUCTS_DIR}/OpenCV/opencv2.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Hue.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/opencv2.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OpenCVDemo/Pods-OpenCVDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EEC463C1EBC7474CB17D0227 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OpenCVDemo/Pods-OpenCVDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		9AF69B461FB183D80020F0E8 /* Sources */ = {
@@ -138,6 +387,7 @@
 			files = (
 				9AF69B501FB183D80020F0E8 /* ViewController.swift in Sources */,
 				9AF69B4E1FB183D80020F0E8 /* AppDelegate.swift in Sources */,
+				9AF69B641FB185F60020F0E8 /* CVManager.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,13 +522,19 @@
 		};
 		9AF69B5D1FB183D80020F0E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DBC227AC22C6A773D9F1328E /* Pods-OpenCVDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9DL29GTL2M;
 				INFOPLIST_FILE = OpenCVDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ice.OpenCVDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "OpenCVDemo/Componet/OpenCVDemo-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -286,13 +542,18 @@
 		};
 		9AF69B5E1FB183D80020F0E8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CE4C0A2493C7A22E79E76441 /* Pods-OpenCVDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9DL29GTL2M;
 				INFOPLIST_FILE = OpenCVDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ice.OpenCVDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "OpenCVDemo/Componet/OpenCVDemo-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

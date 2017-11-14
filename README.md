@@ -9,9 +9,13 @@ This is a demo for image stitching use swift & object-c & OpenCV 3.2 .
 
 Hope it's helpful for anyone want to use OpenCV in IOS.
 
+(Better use simulators, it's very slow run at my iphone6.)
+
 这是一个使用 Swift 开发的图片拼接 demo , 利用 object-c 整合 OpenCV 3.2
 
 希望对在 IOS 中使用 OpenCV 的朋友有点帮助
+
+(最好使用模拟器运行,在手机上运行会非常慢)
 
 # 使用
 
